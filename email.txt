@@ -1,0 +1,3 @@
+Olá, $nome !
+
+Esse email foi enviado de forma automatica.
